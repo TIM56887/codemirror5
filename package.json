@@ -1,6 +1,6 @@
 {
   "name": "codemirror-custom-clm",
-  "version": "1.00.06",
+  "version": "1.00.08",
   "main": "lib/codemirror.js",
   "style": "lib/codemirror.css",
   "author": {
