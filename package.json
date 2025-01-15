@@ -1,12 +1,12 @@
 {
-  "name": "codemirror",
-  "version": "5.65.18",
+  "name": "codemirror-custom-clm",
+  "version": "1.00.06",
   "main": "lib/codemirror.js",
   "style": "lib/codemirror.css",
   "author": {
-    "name": "Marijn Haverbeke",
-    "email": "marijn@haverbeke.berlin",
-    "url": "http://marijnhaverbeke.nl"
+    "name": "tim"
+    
+    
   },
   "description": "Full-featured in-browser code editor",
   "license": "MIT",
@@ -45,8 +45,5 @@
     "dependencies": {},
     "devDependencies": {}
   },
-  "dependencies": {},
-  "publishConfig": {
-    "tag": "version5"
-  }
+  "dependencies": {}
 }
